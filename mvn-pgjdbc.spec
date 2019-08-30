@@ -4,7 +4,7 @@
 #
 Name     : mvn-pgjdbc
 Version  : el9.4.1207
-Release  : 1
+Release  : 2
 URL      : https://github.com/pgjdbc/pgjdbc/archive/REL9.4.1207.tar.gz
 Source0  : https://github.com/pgjdbc/pgjdbc/archive/REL9.4.1207.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1207.jre7/postgresql-9.4.1207.jre7.jar
